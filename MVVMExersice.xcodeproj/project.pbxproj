@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E87F510B283ECE280057BC02 /* MainViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87F510A283ECE280057BC02 /* MainViewModel.swift */; };
 		E8918093283C1CEF0095D61A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8918092283C1CEF0095D61A /* AppDelegate.swift */; };
 		E8918095283C1CEF0095D61A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8918094283C1CEF0095D61A /* SceneDelegate.swift */; };
 		E8918097283C1CEF0095D61A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8918096283C1CEF0095D61A /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E87F510A283ECE280057BC02 /* MainViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewModel.swift; sourceTree = "<group>"; };
 		E891808F283C1CEF0095D61A /* MVVMExersice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MVVMExersice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8918092283C1CEF0095D61A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E8918094283C1CEF0095D61A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				E8918092283C1CEF0095D61A /* AppDelegate.swift */,
 				E8918094283C1CEF0095D61A /* SceneDelegate.swift */,
 				E8918096283C1CEF0095D61A /* ViewController.swift */,
+				E87F510A283ECE280057BC02 /* MainViewModel.swift */,
 				E8918098283C1CEF0095D61A /* Main.storyboard */,
 				E891809B283C1CF00095D61A /* Assets.xcassets */,
 				E891809D283C1CF00095D61A /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				E8918097283C1CEF0095D61A /* ViewController.swift in Sources */,
 				E8918093283C1CEF0095D61A /* AppDelegate.swift in Sources */,
 				E8918095283C1CEF0095D61A /* SceneDelegate.swift in Sources */,
+				E87F510B283ECE280057BC02 /* MainViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
